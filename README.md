@@ -48,4 +48,5 @@ You can run the project by executing the Python script in a Python environment.
 ## Contributing
 Contributions are welcome. Please feel free to submit a pull request or open an issue.
 
-License
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
